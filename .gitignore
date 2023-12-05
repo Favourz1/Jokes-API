@@ -24,4 +24,6 @@ config.php
 *.njsproj
 *.sln
 *.sw?
+
+solution.js
     
